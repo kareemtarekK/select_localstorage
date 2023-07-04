@@ -6,4 +6,4 @@ to understand this simple application follow steps...
 ###### 3- you will see updating body.
 ### this simple application save values in localstorage so these values will not change until change them.
 ### built using javascript , html and css.
-to see simple application (click-here)[]
+to see simple application [click-here](https://kareemtarekk.github.io/select_localstorage/)
