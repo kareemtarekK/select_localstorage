@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    color: green;
+    font-size: 16px;
+}
+.all{
+    width: fit-content;
+    background-color:#eee;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 7px;
+}
+.all select{
+    padding: 15px 5px;
+    border: solid 1.5px orangered;
+    border-radius: 5px;
+    outline: none;
+    margin-left: 15px;
+    font-weight: bold;
+}
+#p{
+    text-align: center;
+    font-weight: bold;
+    background-color: #eee;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 10px auto;
+    padding: 15px;
+}
